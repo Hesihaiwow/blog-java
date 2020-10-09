@@ -1,0 +1,9 @@
+# 忽略 target
+target/
+# 忽略 .idea
+.idea
+# 忽略 iml
+*.iml
+
+# 忽略 test
+src/test/
